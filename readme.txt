@@ -4,7 +4,7 @@ Plugin URI: http://vcad.dd-l.name/wp-plugins/
 Tags: dl, yandex, google, bing, mail, metrika, analytics, tools
 Requires at least: 3.2
 Tested up to: 3.8
-Stable tag: 1.0
+Stable tag: 1.1
 
 Простой способ добавить код на сайт для отслеживания(валидации)
 
@@ -22,18 +22,27 @@ Stable tag: 1.0
 Код счетчиков:
 
 * [Яндекс.Метрика](https://metrika.yandex.ru/)
-* [Google Analytics](http://www.google.com/analytics/) 
+* [Google Analytics](http://www.google.com/analytics/)
+* [Рейтинг Mail](http://top.mail.ru/mycounters/) 
 
 Если вы хотите помочь в разработке этого плагина - добро пожаловать на [github](https://github.com/dyadyal/dl-verification)
 
 == Installation ==
 
 1. Распакуйте архив с плагином
-2. Загрузите папку с плагином в директорию /wp-content/plugins/ на вашем сервере
+2. Загрузите папку с плагином в директорию '/wp-content/plugins/' на вашем сервере
 3. Активируйте плагин в разделе Плагины в панели администрирования WordPress
-4. Зайдите в раздел DL Verification для вставки кода отслеживания или счётчика
+4. Зайдите в раздел 'DL Verification' для вставки кода отслеживания или счётчика
+
+== Screenshots ==
+
+1. Настройки плагина
 
 == Changelog ==
+
+= 1.1 =
+* Добавлен Рейтинг Mail
+* Параметры сгрупированны по компаниям
 
 = 1.0 =
 * Оптимизация кода
