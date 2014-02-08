@@ -1,6 +1,6 @@
 === DL Verification ===
 Contributors: dyadyalesha
-Plugin URI: http://vcad.dd-l.name/wp-plugins/
+Plugin URI: http://dd-l.name/wpl/dl-verification.php
 Tags: dl, yandex, google, bing, mail, metrika, analytics, tools
 Requires at least: 3.2
 Tested up to: 3.8
